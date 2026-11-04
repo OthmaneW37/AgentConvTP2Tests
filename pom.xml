@@ -38,5 +38,10 @@
             <groupId>dev.langchain4j</groupId>
             <artifactId>langchain4j-google-genai</artifactId>
         </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>1.6.6</version>
+        </dependency>
     </dependencies>
 </project>
